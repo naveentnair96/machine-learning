@@ -1,0 +1,4 @@
+var1={}
+var2={1:"Naveen",2:"T",3:"Nair"}
+print(var2)
+print(var2.values())
